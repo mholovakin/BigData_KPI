@@ -11,7 +11,7 @@ pip install -r requirements.txt
 And then run the command:
 
 ```bash
-spark-sumbit src/run.py
+spark-submit src/run.py
 ```
 
 
